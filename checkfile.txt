@@ -1,2 +1,3 @@
 creating new file through bash
 creating new line through eclipse
+creating newline through atom
