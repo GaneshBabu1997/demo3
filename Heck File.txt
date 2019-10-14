@@ -8,3 +8,4 @@ hi
 hello
 heck is all how we resolve the heck
 new line from intellij
+new
